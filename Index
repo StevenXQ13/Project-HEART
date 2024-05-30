@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<header> 
+  <nav class="navbar">
+    <div class="logo">Project HEART</div>
+    <ul class="nav-links">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about.html">About</a></li>  
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a href="partners.html">Partners</a></li>
+ </ul>
+      </nav>
+  </header>
+  <section class="hero">
+      <h1>Project H.E.ART (Health Equity in Art)</h1>
+      <p>Adressing and raising awareness on health stereotyping through art</p>
+      <a href="about.html" class="cta">Learn More</a>
+  </section>
+  
+  <script src="script.js"></script>
+  
+</body>
+
+</html>
